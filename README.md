@@ -1,5 +1,3 @@
-# Basics-of-C-Plus-Plus
-This Repository consists of The basics of the C++ Programming language
 # C++ Basics: Hello World & Simple Calculator
 
 This repository contains two simple C++ programs:
