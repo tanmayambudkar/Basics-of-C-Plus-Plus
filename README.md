@@ -9,7 +9,7 @@ This repository contains two simple C++ programs:
 
 ## 🔧 Requirements
 
-- A C++ compiler like `g++` or `clang++`
+- A C++ compiler like VS Code or any Online Compiler.
 
 ---
 
