@@ -17,5 +17,10 @@ This repository contains two simple C++ programs:
 
 **1. Hello World**
 ```bash
-g++ hello_world.cpp -o hello
-./hello
+#include <iostream>
+using namespace std;
+
+int main(){
+  cout<<"Hello World";
+  return 0;
+}
